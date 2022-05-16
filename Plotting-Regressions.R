@@ -3,6 +3,7 @@ setwd("C:/Users/anton/OneDrive/Dokument/R/thesis/scraper-for-thesis")
 
 library(readr)
 library(ggplot2)
+library(dplyr)
 
 df3 <- read_csv("df-for-plot2.csv")
 
